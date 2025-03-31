@@ -16,4 +16,10 @@ Angular, HTML, CSS, Typescript
 
 ## App Screens
 
-> <img src="https://github.com/naveen-v-v/investment-calculator/blob/main/public/output.png?raw=true" alt="logo"/>
+### HomeScreen
+
+> <img src="https://github.com/naveen-v-v/investment-calculator/blob/main/public/output1.png?raw=true" alt="logo"/>
+
+### Calculations
+
+> <img src="https://github.com/naveen-v-v/investment-calculator/blob/main/public/output2.png?raw=true" alt="logo"/>
